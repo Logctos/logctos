@@ -102,7 +102,7 @@ Web apps de gestão para pequenos negócios locais — incluindo PsiGestão (cl�
 ---
 
 <p align="center">
-  📍 Marialva, Paraná, Brasil &nbsp;|&nbsp; 🥋 Jiu-Jitsu &nbsp;|&nbsp; 🎬 Cinema
+  📍 Marialva, Paraná, Brasil &nbsp;|&nbsp
 </p>
 
 <p align="center">
