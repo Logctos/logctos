@@ -64,6 +64,10 @@ Sistema de conferência de inventário via Telegram, onde o operador audita esto
 Ferramenta web que transforma tabelas complexas de frete (CSV) em decisões de logística para e-commerce. Back-end em Node.js cruza peso/dimensão do produto com as regras de cada transportadora; front-end em React exibe as melhores opções de custo e prazo em tempo real.
 `Node.js` `React` `Logística` `E-commerce`
 
+**🏭 PCP Agent — Agente de Programação de Produção**
+Agente de IA que gera automaticamente a programação semanal da produção, cruzando capacidade fabril, carteira de pedidos e prioridades para sugerir o sequenciamento ideal — reduzindo o tempo gasto em planejamento manual no PCP.
+`IA / Agente` `Automação` `PCP`
+
 **🏢 Sistemas de gestão sob medida (Google Apps Script)**
 Web apps de gestão para pequenos negócios locais — incluindo PsiGestão (clínica de psicologia) e BarberPro (barbearia) — cobrindo agendamento, controle financeiro e relacionamento com cliente.
 `Google Apps Script` `Web Apps`
@@ -102,7 +106,7 @@ Web apps de gestão para pequenos negócios locais — incluindo PsiGestão (cl�
 ---
 
 <p align="center">
-  📍 Marialva, Paraná, Brasil &nbsp;|&nbsp
+  📍 Marialva, Paraná, Brasil &nbsp;|&nbsp; 🥋 Jiu-Jitsu &nbsp;|&nbsp; 🎬 Cinema
 </p>
 
 <p align="center">
